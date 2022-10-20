@@ -12,6 +12,7 @@ var score=0;
 
 var gameOver, restart;
 
+//comentario de prueba GitWeb
 
 
 function preload(){
