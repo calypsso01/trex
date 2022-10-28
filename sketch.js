@@ -191,3 +191,5 @@ function reset(){
   score = 0;
   
 }
+
+//activar funcion
